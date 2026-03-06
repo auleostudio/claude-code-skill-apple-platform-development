@@ -15,7 +15,7 @@ Clone this repo into your Claude Code skills directory:
 mv ~/.claude/skills ~/.claude/skills-backup
 
 # Clone
-git clone https://github.com/tuanvu-expresso/claude-code-skill-apple-platform-development.git ~/.claude/skills
+git clone https://github.com/auleostudio/claude-code-skill-apple-platform-development.git ~/.claude/skills
 ```
 
 Skills are automatically detected by Claude Code — no additional configuration required.
@@ -216,7 +216,7 @@ Claude Code automatically loads the relevant skill based on your conversation co
 **Au Léo Studio**
 - Web: [auleostudio.com](https://auleostudio.com)
 - Email: [hello@auleostudio.com](mailto:hello@auleostudio.com)
-- GitHub: [@tuanvu-expresso](https://github.com/tuanvu-expresso)
+- GitHub: [@auleostudio](https://github.com/auleostudio)
 
 ## License
 
