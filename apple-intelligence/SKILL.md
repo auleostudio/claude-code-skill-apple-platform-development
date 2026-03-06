@@ -71,6 +71,6 @@ App Intents for Siri, Shortcuts, Spotlight, and Apple Intelligence.
 
 ## Reference Documentation
 
-- `/Users/ravishankar/Downloads/docs/FoundationModels-Using-on-device-LLM-in-your-app.md`
-- `/Users/ravishankar/Downloads/docs/Implementing-Visual-Intelligence-in-iOS.md`
-- `/Users/ravishankar/Downloads/docs/AppIntents-Updates.md`
+- [Foundation Models - On-device LLM](https://developer.apple.com/documentation/foundationmodels)
+- [Visual Intelligence](https://developer.apple.com/documentation/visualintelligence)
+- [App Intents Updates](https://developer.apple.com/documentation/AppIntents)

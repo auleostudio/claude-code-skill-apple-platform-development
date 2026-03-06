@@ -13,7 +13,7 @@ Clone this repo into your Claude Code skills directory:
 mv ~/.claude/skills ~/.claude/skills-backup
 
 # Clone
-git clone https://github.com/tuanvu-expresso/claude-code-skill-ios-development.git ~/.claude/skills
+git clone https://github.com/tuanvu-expresso/claude-code-skill-apple-platform-development.git ~/.claude/skills
 ```
 
 Skills are automatically detected by Claude Code — no additional configuration required.

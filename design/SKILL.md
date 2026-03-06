@@ -60,5 +60,5 @@ SwiftUI animation patterns for iOS 13–18+.
 
 ## Reference Documentation
 
-- `/Users/ravishankar/Downloads/docs/SwiftUI-Implementing-Liquid-Glass-Design.md`
-- `/Users/ravishankar/Downloads/docs/AppKit-Implementing-Liquid-Glass-Design.md`
+- [Implementing Liquid Glass in SwiftUI](https://developer.apple.com/documentation/swiftui/implementing-liquid-glass-design)
+- [Implementing Liquid Glass in AppKit](https://developer.apple.com/documentation/appkit/implementing-liquid-glass-design)
