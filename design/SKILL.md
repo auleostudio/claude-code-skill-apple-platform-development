@@ -21,6 +21,11 @@ Use this skill when the user:
 - Needs **view transitions**, **matched geometry**, or **hero transitions**
 - Wants **SF Symbol effects** (bounce, pulse, wiggle, breathe)
 - Asks about **animation completions** or **withAnimation**
+- Needs **Apple Design Resources** (UI kits, templates, fonts, bezels)
+- Asks about **SF Symbols**, **SF Pro**, or system fonts
+- Needs **app icon templates** or **production templates**
+- Wants **product bezels** for marketing screenshots
+- Asks about **Icon Composer** for layered icons
 
 ## Available Skills
 
@@ -40,6 +45,17 @@ SwiftUI animation patterns for iOS 13–18+.
 - View transitions, matched geometry, navigation transitions
 - SF Symbol effects
 - Animation completions, transactions, timing curves
+
+### apple-design-resource/
+Official Apple Design Resources reference for all platforms.
+- UI Kits (Figma, Sketch) for iOS, macOS, watchOS, visionOS, tvOS
+- App icon templates and production templates
+- System fonts (SF Pro, SF Compact, SF Mono, New York)
+- SF Symbols 7 (6,900+ symbols)
+- Icon Composer for layered Liquid Glass icons
+- Technology-specific templates (Apple Pay, Sign in with Apple, etc.)
+- Product bezels for marketing materials
+- Parallax tools for tvOS/visionOS
 
 ## Key Principles
 
