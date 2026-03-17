@@ -2,7 +2,7 @@
 
 By **[Au Léo Studio](https://auleostudio.com)** | [hello@auleostudio.com](mailto:hello@auleostudio.com)
 
-A comprehensive collection of 25 skill modules (421 files) for [Claude Code](https://claude.com/claude-code), covering the full Apple development lifecycle — from idea to App Store.
+A comprehensive collection of 26 skill modules for [Claude Code](https://claude.com/claude-code), covering the full Apple development lifecycle — from idea to App Store.
 
 These skills provide Claude Code with deep, structured knowledge about iOS, macOS, watchOS, visionOS, and tvOS development, enabling it to write better code, review UI against Apple Human Interface Guidelines, generate production-ready components, and guide product decisions.
 
@@ -41,6 +41,7 @@ Skills are automatically detected by Claude Code — no additional configuration
 |-------|-------------|
 | [**apple-hig-principles**](apple-hig-principles/) | Universal Apple HIG principles for all platforms — accessibility, color, typography, layout, navigation, modality, components, platform-specific adaptations |
 | [**design**](design/) | Modern Apple design systems — Liquid Glass (iOS 26+), spring/bounce/snappy animations, PhaseAnimator, KeyframeAnimator, SF Symbol effects, view transitions |
+| [**ux-ui-pro**](ux-ui-pro/) | Professional UI/UX design intelligence — 67 UI styles, color palettes by product type, typography pairings, layout rules, accessibility standards, animation timing, design system generation, pre-delivery checklists. Inspired by [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (MIT) |
 
 ### AI & Machine Learning
 
